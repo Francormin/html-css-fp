@@ -1,0 +1,29 @@
+{
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "tabWidth": 3
+      }
+    },
+    {
+      "files": "*.css",
+      "options": {
+        "tabWidth": 3
+      }
+    },
+    {
+      "files": "*.sass",
+      "options": {
+        "tabWidth": 3
+      }
+    },
+    {
+      "files": "*.scss",
+      "options": {
+        "tabWidth": 3
+      }
+    }
+  ]
+}
